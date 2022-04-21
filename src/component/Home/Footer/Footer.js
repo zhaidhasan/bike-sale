@@ -15,7 +15,7 @@ const Footer = () => {
 
                                 <div className="home-town">
 
-                                    <p> <span className=''><FontAwesomeIcon icon={faLocationArrow} /></span>    Kolabagan,Road No-5</p>
+                                    <p> <span className=''><FontAwesomeIcon icon={faLocationArrow} /></span>    Sobhanbag ,Road No-3</p>
                                     <p className='need-customize'>Dhanmondi,Dhaka 1205</p>
                                 </div>
 
